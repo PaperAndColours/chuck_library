@@ -1,0 +1,5 @@
+Add event parameters
+	
+
+Update PeriodNode.timeToNext()
+	so that the final node gives the correct amount of time
